@@ -1,0 +1,26 @@
+h1{
+    font-size: 51px;
+   
+}
+body{
+    font-family: 'East Sea Dokdo', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.a{
+    color: salmon;
+}
+.half{
+    width:40%;
+    float: left;
+}
+.half img{
+    width: 110%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:whitesmoke;
+    font-weight: 700;
+}
